@@ -11,7 +11,8 @@ public class AreaOfCircle {
 		double area = Math.PI*radius*radius;
 		
 		System.out.println("Area of circle: "+ area);
-		
+		System.out.println("Half area of circle: "+ area/2);
+			
 	}
 
 }
