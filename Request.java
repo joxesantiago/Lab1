@@ -13,6 +13,7 @@ public class Request {
 		int n = sc.nextInt();
 		
 		for (int i = 0; i < n; i++) {
+			
 			int request = sc.nextInt();
 			
 			if(request==1) {
